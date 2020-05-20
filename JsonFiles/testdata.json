@@ -1,0 +1,11 @@
+{
+  "practicepage_title": "Practice Page",
+  "radiobutton_value": "radio2",
+  "suggestion_dropdown_value": "Indon",
+  "static_dropdown_value": "option2",
+  "check_box_values": ["option1","option2"],
+  "username": "Manjunathan",
+  "openwindow_action_title": "QA Click Academy | Selenium,Jmeter,SoapUI,Appium,Database testing,QA Training Academy",
+  "open_tab_title": "Rahul Shetty Academy",
+  "course_name": "SELENIUM"
+}

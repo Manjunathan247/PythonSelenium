@@ -1,0 +1,6 @@
+{
+  "browser" : "chrome",
+  "url": "https://www.rahulshettyacademy.com/AutomationPractice/",
+  "implicitwait": 20,
+  "chromedriver_path": "Drivers/chromedriver.exe"
+}

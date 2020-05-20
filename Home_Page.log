@@ -1,0 +1,114 @@
+05/20/2020 05:35:46 PM - Home_Page - INFO: Clicked on radio2 button
+05/20/2020 05:35:46 PM - Home_Page - INFO: Selected Indon from suggestion drop down
+05/20/2020 05:35:46 PM - Home_Page - INFO: Value selected from auto suggestion box is:Indonesia
+05/20/2020 05:35:47 PM - Home_Page - INFO: Selected option2 from static drop down
+05/20/2020 05:35:47 PM - Home_Page - INFO: Value selected from static drop down is :option2
+05/20/2020 05:35:47 PM - Home_Page - INFO: Selected option1 from checkbox example
+05/20/2020 05:35:47 PM - Home_Page - INFO: Selected option2 from checkbox example
+05/20/2020 05:35:47 PM - Home_Page - INFO: Alert message is having Manjunathan
+05/20/2020 05:35:47 PM - Home_Page - INFO: Clicked on accept button
+05/20/2020 05:35:47 PM - Home_Page - INFO: Alert message is having Manjunathan
+05/20/2020 05:35:47 PM - Home_Page - INFO: Clicked on dismiss button
+05/20/2020 05:35:47 PM - Home_Page - INFO: Clicked on Open window button
+05/20/2020 05:35:55 PM - Home_Page - INFO: Clicked on Open tab button
+05/20/2020 05:35:57 PM - Home_Page - INFO: course names having Selenium as substring: 
+05/20/2020 05:35:57 PM - Home_Page - INFO: Selenium Webdriver with Java Basics + Advanced + Interview Guide
+05/20/2020 05:35:57 PM - Home_Page - INFO: Appium (Selenium) - Mobile Automation Testing from Scratch
+05/20/2020 05:35:57 PM - Home_Page - INFO: Master Selenium Automation in simple Python Language
+05/20/2020 05:35:57 PM - Home_Page - INFO: Advanced Selenium Framework Pageobject, TestNG, Maven, Jenkins,C
+05/20/2020 05:35:57 PM - Home_Page - INFO: Number of courses having Selenium as substring is: 4
+05/20/2020 05:35:58 PM - Home_Page - INFO: Clicked on hide button
+05/20/2020 05:35:58 PM - Home_Page - INFO: Text box is not displayed
+05/20/2020 05:35:58 PM - Home_Page - INFO: Clicked on show button
+05/20/2020 05:35:58 PM - Home_Page - INFO: Text box is displayed
+05/20/2020 05:35:58 PM - Home_Page - INFO: Mouse on Mousehover button
+05/20/2020 05:35:58 PM - Home_Page - INFO: Options displayed when mouserhover on button:
+05/20/2020 05:35:58 PM - Home_Page - INFO: Top
+05/20/2020 05:35:58 PM - Home_Page - INFO: Reload
+05/20/2020 05:35:58 PM - Home_Page - INFO: Number of iframes in page: 1
+05/20/2020 05:35:58 PM - Home_Page - INFO: control switching into iframe
+05/20/2020 05:35:58 PM - Home_Page - INFO: Number of urls in frame: 125
+05/20/2020 05:35:58 PM - Home_Page - INFO: List of urls in frame: 
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://linkedin.com/in/rahul-shetty-trainer/
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/sign_up
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/sign_in
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/index
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/index
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/courses
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/mentorship
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/practice-project
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/consulting
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/part-time-jobs
+05/20/2020 05:35:58 PM - Home_Page - INFO: http://www.qaclickacademy.com/blog/
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/about-my-mission
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/contact-us
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/index
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/index
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/courses
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/mentorship
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/practice-project
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/consulting
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/part-time-jobs
+05/20/2020 05:35:58 PM - Home_Page - INFO: http://www.qaclickacademy.com/blog/
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/about-my-mission
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/contact-us
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/sign_up
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/practice-project
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/practice-project
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/practice-project
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/practice-project
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/consulting
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/consulting
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/consulting
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/consulting
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/part-time-jobs
+05/20/2020 05:35:58 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/part-time-jobs
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/part-time-jobs
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/part-time-jobs
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/mentorship
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/practice-project
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/consulting
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/part-time-jobs
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/mentorship
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/mentorship
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/mentorship
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/mentorship
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/practice-project
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/practice-project
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/practice-project
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/practice-project
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/consulting
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/consulting
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/consulting
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/consulting
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/core-java-for-automation-testers-interview-programs
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/core-java-for-automation-testers-interview-programs
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/seleniumwebdriverjavatraining
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/seleniumwebdriverjavatraining
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/learn-jmeter-from-scratch-performance-load-testing-tool-2015-06-28-08-33-24-0000
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/learn-jmeter-from-scratch-performance-load-testing-tool-2015-06-28-08-33-24-0000
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/learn-sql-in-practical-database-testing-from-scratch
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/learn-sql-in-practical-database-testing-from-scratch
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/mobile-automation-using-appiumselenium-3
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/mobile-automation-using-appiumselenium-3
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/webservices-testing-with-soap-ui
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/webservices-testing-with-soap-ui
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/learn-software-testing-in-practical-become-a-qa-expert
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/learn-software-testing-in-practical-become-a-qa-expert
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/learn-selenium-automation-in-easy-python-language
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/learn-selenium-automation-in-easy-python-language
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/rest-api-testing-automation-from-scratch-rest-assured-java
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/rest-api-testing-automation-from-scratch-rest-assured-java
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/learn-protractor-angular-automation-from-scratch-framework
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/learn-protractor-angular-automation-from-scratch-framework
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/cypress-modern-automation-testing-from-scratch-framework
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/cypress-modern-automation-testing-from-scratch-framework
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/sdet-test-architect-essentials-road-to-full-stack-qa
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/p/sdet-test-architect-essentials-road-to-full-stack-qa
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/courses
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://courses.rahulshettyacademy.com/sign_up
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/about-my-mission
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/contact-us
+05/20/2020 05:35:59 PM - Home_Page - INFO: https://www.rahulshettyacademy.com/#/privacy
+05/20/2020 05:35:59 PM - Home_Page - INFO: Control back to main page
